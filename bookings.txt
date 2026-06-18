@@ -1,0 +1,50 @@
+====================================
+Reservation ID : 1001
+Customer Name : Sameer Raj
+Phone : 8210188127
+Room Number : 301
+Room Type : Suite
+Price : Rs. 5000.0
+Status : Confirmed
+====================================
+
+====================================
+Reservation ID : 1001
+Customer Name : Sameer Raj
+Phone : 8210188127
+Room Number : 301
+Room Type : Suite
+Price : Rs. 5000.0
+Status : Confirmed
+====================================
+
+====================================
+Reservation ID : 1001
+Customer Name : Sameer Raj
+Phone : 8210188127
+Room Number : 301
+Room Type : Suite
+Price : Rs. 5000.0
+Status : Confirmed
+====================================
+
+====================================
+Reservation ID : 1001
+Customer Name : Sameer raj
+Phone : 0000000000
+Room Number : 201
+Room Type : Deluxe
+Price : Rs. 3000.0
+Status : Confirmed
+====================================
+
+====================================
+Reservation ID : 1001
+Customer Name : Sameer raj
+Phone : 0000000000
+Room Number : 201
+Room Type : Deluxe
+Price : Rs. 3000.0
+Status : Confirmed
+====================================
+
