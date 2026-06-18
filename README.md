@@ -37,16 +37,25 @@ The **Hotel Reservation System** is a Java-based console application developed u
 ```text
 HotelReservationSystem
 │
-├── src
-│   ├── Main.java
-│   ├── Hotel.java
-│   ├── Room.java
-│   ├── Customer.java
-│   ├── Reservation.java
-│   ├── Payment.java
-│   └── FileManager.java
+├── screenshots
+│   ├── Booking cancelled.png
+│   ├── Confirm booking and verification.png
+│   ├── Room already booked.png
+│   ├── Thanks for visiting.png
+│   ├── Type of booking.png
+│   ├── booking confirmed.png
+│   └── booking system.png
 │
+├── Customer.java
+├── FileManager.java
+├── Hotel.java
+├── Main.java
+├── OTP.java
+├── Payment.java
+├── Reservation.java
+├── Room.java
 ├── bookings.txt
+├── .gitignore
 └── README.md
 ```
 
